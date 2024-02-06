@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirjakub" alt="mirjakub" /></a> </p>
 
-- 📤 WebProjects [SlawomirJakub.com](https://github.com/orgs/SJK-FE-Projects/repositories)
-
 - 👀 I'm looking for collaboration on → **Frontend webDev projects**
 
-- 📤 My WebProjects at DCI [DCI](https://github.com/FBW-E07)
+- 📤 My WebProjects @ salwomirJakub [SJK-FE_WebDev](https://github.com/orgs/SJK-FE-Projects/repositories)
+
+- 📤 My WebProjects at DCI [DCI WebDevFE](https://github.com/FBW-E07)
 
 - 📤 My WebProjects at IronHack [SJK@IronHack](https://github.com/orgs/SJK-IronHack/repositories)
 
