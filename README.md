@@ -1,3 +1,5 @@
+<body style="background-color:rgba(0, 0, 0, 0.0470588)>
+  
 <h1 align="center">Hi 👋 I'm Slawomir Jakub</h1>
 <h3 align="center">A Berlin-based promising and ambitious frontend developer</h3>
 
@@ -32,3 +34,5 @@
 
 
 
+
+</body>
