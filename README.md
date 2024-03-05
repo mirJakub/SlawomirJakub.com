@@ -19,7 +19,7 @@ My goal is to bring a unique blend of Web Design know-how and Frontend Developme
 
 - 👨‍💻 I'm learning **reactJS, vueJS, Angular, TypeScript**
 
-- 👨🏼‍🎓 Experience with **THML5, CSS3/SASS/LESS, JS, VueJS, reactJS, MongoDB, MERN Apps**
+- 👨🏼‍🎓 Experience with **HTML5, CSS3/SASS/LESS, JS, VueJS, reactJS, MongoDB, MERN Apps**
 
 - 📄 Know about my experiences [promising FE web developer with 5+ years of experience as UI designer](promising FE web developer with 5+ years of experience as UI designer)
 
