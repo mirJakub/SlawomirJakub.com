@@ -7,7 +7,7 @@ My goal is to bring a unique blend of Web Design know-how and Frontend Developme
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mirjakub" alt="mirjakub" /></a> </p>
 
-- 👀 I'm looking for collaboration on → **Frontend webDev projects**
+- 👀 I'm looking for collaborations on → **Frontend webDev projects**
 
 - 📤 My WebProjects @ salwomirJakub [SJK-FE_WebDev](https://github.com/orgs/SJK-FE-Projects/repositories)
 
@@ -15,7 +15,7 @@ My goal is to bring a unique blend of Web Design know-how and Frontend Developme
 
 - 📤 My WebProjects at IronHack [SJK@IronHack](https://github.com/orgs/SJK-IronHack/repositories)
 
-- 📫 All of my projects are available at [SlawomirJakub.com](SlawomirJakub.com)
+- 📫 All other projects at [SlawomirJakub.com](SlawomirJakub.com)
 
 - 👨‍💻 I'm learning **reactJS, vueJS, Angular, TypeScript**
 
