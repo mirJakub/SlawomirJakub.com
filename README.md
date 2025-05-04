@@ -16,8 +16,10 @@ My goal is to bring a unique blend of Web Design know-how and Frontend Developme
 - 📤 My WebProjects at IronHack [SJK@IronHack](https://github.com/orgs/SJK-IronHack/repositories)
 
 - 📫 All other projects at [SlawomirJakub.com](SlawomirJakub.com)
+- 
+- 🥫 RedBull projects at diesdas.digital [SlawomirJakub.com](https://github.com/redbullmediahouse)
 
-- 👨‍💻 I'm learning **reactJS, vueJS, Angular, TypeScript**
+- 👨‍💻 I'm learning **react, Next, Vue, JavaScript + TypeScript**
 
 - 👨🏼‍🎓 Experience with **HTML5, CSS3/SASS/LESS, JS, VueJS, reactJS, MongoDB, MERN Apps**
 
